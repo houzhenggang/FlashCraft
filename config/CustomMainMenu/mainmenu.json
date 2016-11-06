@@ -1,0 +1,215 @@
+{
+    "images":
+    {
+		"sidebar": 
+		{
+			"image": "mainmenu:textures/sidebar.png",
+			"posX": -175,
+			"posY": 0,
+			"width": 1064,
+			"height": 512,
+			"alignment": "left"
+		},
+	  "title":
+        {
+            "image" : "mainmenu:textures/modpack.png",
+            "posX" : -123,
+            "posY" : -110,
+            "width" : 260,
+            "height" : 60,
+            "alignment" : "center"
+        }
+    
+	
+	},
+	
+    "buttons":
+    
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : 20,
+            "posY" : -35,
+            "width" : 90,
+            "height" : 20,
+            "hoverText" : "forever alone",
+			"alignment" : "left_center",
+			"action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 20,
+            "posY" : -10,
+            "width" : 90,
+            "height" : 20,
+			"alignment" : "left_center",
+			"hoverText" : "Lets Play together",
+			"action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : 20,
+            "posY" : 15,
+            "width" : 90,
+            "height" : 20,
+            "alignment" : "left_center",
+			"action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "",
+            "posX" : 20,
+            "posY" : -40,
+            "width" : 20,
+            "height" : 20,
+            "texture":"mainmenu:button/Options.png",
+			"alignment" : "bottom_left",
+			"action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 62,
+            "posY" : -40,
+            "width" : 49,
+            "height" : 20,
+            "alignment" : "bottom_left",
+			"hoverText" : "Goodbye",
+			"action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : 41,
+            "posY" : -40,
+            "width" : 20,
+            "height" : 20,
+            "alignment" : "bottom_left",
+			"action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+		
+		"Github":
+        {
+            "text" : "",
+			"texture" : "mainmenu:button/github.png",
+			"tooltip" : "Issues?",
+			"alignment" : "bottom_center",
+            "posX" : -180,
+            "posY" : -252,
+            "width" : 20,
+            "height" : 20,
+			"action" :
+			{
+                "type" : "openLink",
+				"link" : "https://github.com/BBoldt/Unabridged/issues"
+            }
+        },
+		
+		"Twitter":
+        {
+            "text" : "",
+			"texture" : "mainmenu:button/twitter.png",
+			"tooltip" : "Twitter",
+			"alignment" : "bottom_center",
+            "posX" : -203,
+            "posY" : -252,
+            "width" : 20,
+            "height" : 20,
+			"action" :
+			{
+                "type" : "openLink",
+				"link" : "https://twitter.com/Flashwar_"
+            }	
+        }
+		 
+
+             
+    },
+    
+    "labels":
+    {
+        "Modpack Version":
+        {
+            "text" : "FlashPack 0.1",
+            "posX" : -80,
+            "posY" : -10,
+            "color" : -10000000000,
+            "alignment" : "bottom_right",
+			"action" :
+			{
+			"type" : "openLink",
+								"link" : "https://minecraft.curseforge.com/projects/flashpack"
+			}
+        },
+		 "username":
+        {
+            "text" : "Welcome, #username#!",
+            "posX" : 16,
+            "posY" : -215,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+		
+		
+	},	
+		
+		
+	"other":
+    {
+		
+	   "splash-text":
+		{
+		"posX" : 110,
+		"posY" : 70,
+		"color" : -256,
+		"alignment" : "top_center",
+		"texts" : "file:mainmenu:textures/splashes.txt"
+		},
+        
+      
+          "background":
+			{
+            "image" : "",
+            "slideshow":
+            {
+                "images" : ["mainmenu:textures/screenshot (3).png","mainmenu:textures/screenshot (2).png","mainmenu:textures/screenshot (1).png", "mainmenu:textures/screenshot (4).png", "mainmenu:textures/screenshot (5).png", "mainmenu:textures/screenshot (6).png"],
+                "displayDuration" : 200,
+                "fadeDuration" : 40
+            }
+        }    
+        
+		
+}
+    }
+}

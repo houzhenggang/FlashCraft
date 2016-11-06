@@ -1,0 +1,34 @@
+{
+  "Default": {
+    "name": "Default",
+    "isActive": true,
+    "recipes": [
+      {
+        "speed": 1,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Fluid",
+            "Item": "steam",
+            "Amount": 80
+          }
+        ],
+        "heat": 100.0,
+        "category": "Boiler",
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Fluid",
+            "Item": "water",
+            "Amount": 15
+          }
+        ],
+        "removeHeat": 0.0,
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Boiler"
+      }
+    ]
+  }
+}
