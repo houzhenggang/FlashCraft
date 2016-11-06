@@ -6,6 +6,7 @@
       {
         "speed": 11,
         "name": "Default",
+        "heat": 125.0,
         "outputs": [
           {
             "Chance": -1,
@@ -14,8 +15,6 @@
             "Amount": 4
           }
         ],
-        "heat": 125.0,
-        "category": "AlloySmelter",
         "inputs": [
           {
             "Chance": -1,
@@ -30,6 +29,7 @@
             "Amount": 3
           }
         ],
+        "category": "AlloySmelter",
         "removeHeat": 0.25,
         "isActive": true,
         "RecipeName": "Default",
@@ -38,6 +38,7 @@
       {
         "speed": 11,
         "name": "Default",
+        "heat": 125.0,
         "outputs": [
           {
             "Chance": -1,
@@ -46,8 +47,6 @@
             "Amount": 4
           }
         ],
-        "heat": 125.0,
-        "category": "AlloySmelter",
         "inputs": [
           {
             "Chance": -1,
@@ -62,6 +61,7 @@
             "Amount": 3
           }
         ],
+        "category": "AlloySmelter",
         "removeHeat": 0.25,
         "isActive": true,
         "RecipeName": "Default",
@@ -70,6 +70,7 @@
       {
         "speed": 9,
         "name": "Default",
+        "heat": 175.0,
         "outputs": [
           {
             "Chance": -1,
@@ -78,8 +79,6 @@
             "Amount": 4
           }
         ],
-        "heat": 175.0,
-        "category": "AlloySmelter",
         "inputs": [
           {
             "Chance": -1,
@@ -94,6 +93,7 @@
             "Amount": 1
           }
         ],
+        "category": "AlloySmelter",
         "removeHeat": 0.5,
         "isActive": true,
         "RecipeName": "Default",
@@ -102,6 +102,7 @@
       {
         "speed": 9,
         "name": "Default",
+        "heat": 175.0,
         "outputs": [
           {
             "Chance": -1,
@@ -110,8 +111,6 @@
             "Amount": 4
           }
         ],
-        "heat": 175.0,
-        "category": "AlloySmelter",
         "inputs": [
           {
             "Chance": -1,
@@ -126,6 +125,7 @@
             "Amount": 1
           }
         ],
+        "category": "AlloySmelter",
         "removeHeat": 0.5,
         "isActive": true,
         "RecipeName": "Default",
