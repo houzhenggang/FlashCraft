@@ -1,0 +1,136 @@
+{
+  "Default": {
+    "name": "Default",
+    "isActive": true,
+    "recipes": [
+      {
+        "speed": 11,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:ingots:10",
+            "Amount": 4
+          }
+        ],
+        "heat": 125.0,
+        "category": "AlloySmelter",
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "dustTin",
+            "Amount": 1
+          },
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "dustCopper",
+            "Amount": 3
+          }
+        ],
+        "removeHeat": 0.25,
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "AlloySmelter"
+      },
+      {
+        "speed": 11,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:ingots:10",
+            "Amount": 4
+          }
+        ],
+        "heat": 125.0,
+        "category": "AlloySmelter",
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "ingotTin",
+            "Amount": 1
+          },
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "ingotCopper",
+            "Amount": 3
+          }
+        ],
+        "removeHeat": 0.25,
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "AlloySmelter"
+      },
+      {
+        "speed": 9,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:ingots:11",
+            "Amount": 4
+          }
+        ],
+        "heat": 175.0,
+        "category": "AlloySmelter",
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "dustIron",
+            "Amount": 2
+          },
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "dustNickel",
+            "Amount": 1
+          }
+        ],
+        "removeHeat": 0.5,
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "AlloySmelter"
+      },
+      {
+        "speed": 9,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:ingots:11",
+            "Amount": 4
+          }
+        ],
+        "heat": 175.0,
+        "category": "AlloySmelter",
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "ingotIron",
+            "Amount": 2
+          },
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "ingotNickel",
+            "Amount": 1
+          }
+        ],
+        "removeHeat": 0.5,
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "AlloySmelter"
+      }
+    ]
+  }
+}
