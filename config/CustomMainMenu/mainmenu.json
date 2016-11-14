@@ -132,7 +132,7 @@
 			"action" :
 			{
                 "type" : "openLink",
-				"link" : "https://github.com/BBoldt/Unabridged/issues"
+				"link" : "https://github.com/Flashwar/FlashCraft/issues"
             }
         },
 		
@@ -161,7 +161,7 @@
     {
         "Modpack Version":
         {
-            "text" : "FlashPack 0.1",
+            "text" : "FlashPack 0.1.2",
             "posX" : -80,
             "posY" : -10,
             "color" : -10000000000,
