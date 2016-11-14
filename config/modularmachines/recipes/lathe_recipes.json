@@ -5,6 +5,10 @@
     "recipes": [
       {
         "speed": 4,
+<<<<<<< HEAD
+=======
+        "mode": 0,
+>>>>>>> master
         "name": "Default",
         "outputs": [
           {
@@ -14,7 +18,11 @@
             "Amount": 2
           }
         ],
+<<<<<<< HEAD
         "mode": 0,
+=======
+        "category": "Lathe",
+>>>>>>> master
         "inputs": [
           {
             "Chance": -1,
@@ -23,13 +31,20 @@
             "Amount": 1
           }
         ],
+<<<<<<< HEAD
         "category": "Lathe",
+=======
+>>>>>>> master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Lathe"
       },
       {
         "speed": 4,
+<<<<<<< HEAD
+=======
+        "mode": 0,
+>>>>>>> master
         "name": "Default",
         "outputs": [
           {
@@ -39,7 +54,11 @@
             "Amount": 2
           }
         ],
+<<<<<<< HEAD
         "mode": 0,
+=======
+        "category": "Lathe",
+>>>>>>> master
         "inputs": [
           {
             "Chance": -1,
@@ -48,13 +67,20 @@
             "Amount": 1
           }
         ],
+<<<<<<< HEAD
         "category": "Lathe",
+=======
+>>>>>>> master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Lathe"
       },
       {
         "speed": 4,
+<<<<<<< HEAD
+=======
+        "mode": 0,
+>>>>>>> master
         "name": "Default",
         "outputs": [
           {
@@ -64,7 +90,11 @@
             "Amount": 2
           }
         ],
+<<<<<<< HEAD
         "mode": 0,
+=======
+        "category": "Lathe",
+>>>>>>> master
         "inputs": [
           {
             "Chance": -1,
@@ -73,13 +103,20 @@
             "Amount": 1
           }
         ],
+<<<<<<< HEAD
         "category": "Lathe",
+=======
+>>>>>>> master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Lathe"
       },
       {
         "speed": 4,
+<<<<<<< HEAD
+=======
+        "mode": 0,
+>>>>>>> master
         "name": "Default",
         "outputs": [
           {
@@ -89,7 +126,11 @@
             "Amount": 2
           }
         ],
+<<<<<<< HEAD
         "mode": 0,
+=======
+        "category": "Lathe",
+>>>>>>> master
         "inputs": [
           {
             "Chance": -1,
@@ -98,13 +139,20 @@
             "Amount": 1
           }
         ],
+<<<<<<< HEAD
         "category": "Lathe",
+=======
+>>>>>>> master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Lathe"
       },
       {
         "speed": 4,
+<<<<<<< HEAD
+=======
+        "mode": 0,
+>>>>>>> master
         "name": "Default",
         "outputs": [
           {
@@ -114,7 +162,11 @@
             "Amount": 2
           }
         ],
+<<<<<<< HEAD
         "mode": 0,
+=======
+        "category": "Lathe",
+>>>>>>> master
         "inputs": [
           {
             "Chance": -1,
@@ -123,13 +175,20 @@
             "Amount": 1
           }
         ],
+<<<<<<< HEAD
         "category": "Lathe",
+=======
+>>>>>>> master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Lathe"
       },
       {
         "speed": 3,
+<<<<<<< HEAD
+=======
+        "mode": 1,
+>>>>>>> master
         "name": "Default",
         "outputs": [
           {
@@ -139,7 +198,11 @@
             "Amount": 9
           }
         ],
+<<<<<<< HEAD
         "mode": 1,
+=======
+        "category": "Lathe",
+>>>>>>> master
         "inputs": [
           {
             "Chance": -1,
@@ -148,13 +211,20 @@
             "Amount": 1
           }
         ],
+<<<<<<< HEAD
         "category": "Lathe",
+=======
+>>>>>>> master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Lathe"
       },
       {
         "speed": 3,
+<<<<<<< HEAD
+=======
+        "mode": 1,
+>>>>>>> master
         "name": "Default",
         "outputs": [
           {
@@ -164,7 +234,11 @@
             "Amount": 9
           }
         ],
+<<<<<<< HEAD
         "mode": 1,
+=======
+        "category": "Lathe",
+>>>>>>> master
         "inputs": [
           {
             "Chance": -1,
@@ -173,13 +247,20 @@
             "Amount": 1
           }
         ],
+<<<<<<< HEAD
         "category": "Lathe",
+=======
+>>>>>>> master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Lathe"
       },
       {
         "speed": 3,
+<<<<<<< HEAD
+=======
+        "mode": 1,
+>>>>>>> master
         "name": "Default",
         "outputs": [
           {
@@ -189,7 +270,11 @@
             "Amount": 9
           }
         ],
+<<<<<<< HEAD
         "mode": 1,
+=======
+        "category": "Lathe",
+>>>>>>> master
         "inputs": [
           {
             "Chance": -1,
@@ -198,13 +283,20 @@
             "Amount": 1
           }
         ],
+<<<<<<< HEAD
         "category": "Lathe",
+=======
+>>>>>>> master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Lathe"
       },
       {
         "speed": 3,
+<<<<<<< HEAD
+=======
+        "mode": 1,
+>>>>>>> master
         "name": "Default",
         "outputs": [
           {
@@ -214,7 +306,11 @@
             "Amount": 9
           }
         ],
+<<<<<<< HEAD
         "mode": 1,
+=======
+        "category": "Lathe",
+>>>>>>> master
         "inputs": [
           {
             "Chance": -1,
@@ -223,13 +319,20 @@
             "Amount": 1
           }
         ],
+<<<<<<< HEAD
         "category": "Lathe",
+=======
+>>>>>>> master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Lathe"
       },
       {
         "speed": 3,
+<<<<<<< HEAD
+=======
+        "mode": 1,
+>>>>>>> master
         "name": "Default",
         "outputs": [
           {
@@ -239,7 +342,11 @@
             "Amount": 9
           }
         ],
+<<<<<<< HEAD
         "mode": 1,
+=======
+        "category": "Lathe",
+>>>>>>> master
         "inputs": [
           {
             "Chance": -1,
@@ -248,13 +355,20 @@
             "Amount": 1
           }
         ],
+<<<<<<< HEAD
         "category": "Lathe",
+=======
+>>>>>>> master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Lathe"
       },
       {
         "speed": 3,
+<<<<<<< HEAD
+=======
+        "mode": 2,
+>>>>>>> master
         "name": "Default",
         "outputs": [
           {
@@ -264,7 +378,11 @@
             "Amount": 2
           }
         ],
+<<<<<<< HEAD
         "mode": 2,
+=======
+        "category": "Lathe",
+>>>>>>> master
         "inputs": [
           {
             "Chance": -1,
@@ -273,13 +391,20 @@
             "Amount": 1
           }
         ],
+<<<<<<< HEAD
         "category": "Lathe",
+=======
+>>>>>>> master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Lathe"
       },
       {
         "speed": 3,
+<<<<<<< HEAD
+=======
+        "mode": 2,
+>>>>>>> master
         "name": "Default",
         "outputs": [
           {
@@ -289,7 +414,11 @@
             "Amount": 2
           }
         ],
+<<<<<<< HEAD
         "mode": 2,
+=======
+        "category": "Lathe",
+>>>>>>> master
         "inputs": [
           {
             "Chance": -1,
@@ -298,13 +427,20 @@
             "Amount": 1
           }
         ],
+<<<<<<< HEAD
         "category": "Lathe",
+=======
+>>>>>>> master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Lathe"
       },
       {
         "speed": 3,
+<<<<<<< HEAD
+=======
+        "mode": 2,
+>>>>>>> master
         "name": "Default",
         "outputs": [
           {
@@ -314,7 +450,11 @@
             "Amount": 2
           }
         ],
+<<<<<<< HEAD
         "mode": 2,
+=======
+        "category": "Lathe",
+>>>>>>> master
         "inputs": [
           {
             "Chance": -1,
@@ -323,7 +463,10 @@
             "Amount": 1
           }
         ],
+<<<<<<< HEAD
         "category": "Lathe",
+=======
+>>>>>>> master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Lathe"

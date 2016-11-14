@@ -6,7 +6,10 @@
       {
         "speed": 11,
         "name": "Default",
+<<<<<<< HEAD
         "heat": 125.0,
+=======
+>>>>>>> master
         "outputs": [
           {
             "Chance": -1,
@@ -15,6 +18,11 @@
             "Amount": 4
           }
         ],
+<<<<<<< HEAD
+=======
+        "heat": 125.0,
+        "category": "AlloySmelter",
+>>>>>>> master
         "inputs": [
           {
             "Chance": -1,
@@ -29,7 +37,10 @@
             "Amount": 3
           }
         ],
+<<<<<<< HEAD
         "category": "AlloySmelter",
+=======
+>>>>>>> master
         "removeHeat": 0.25,
         "isActive": true,
         "RecipeName": "Default",
@@ -38,7 +49,10 @@
       {
         "speed": 11,
         "name": "Default",
+<<<<<<< HEAD
         "heat": 125.0,
+=======
+>>>>>>> master
         "outputs": [
           {
             "Chance": -1,
@@ -47,6 +61,11 @@
             "Amount": 4
           }
         ],
+<<<<<<< HEAD
+=======
+        "heat": 125.0,
+        "category": "AlloySmelter",
+>>>>>>> master
         "inputs": [
           {
             "Chance": -1,
@@ -61,7 +80,10 @@
             "Amount": 3
           }
         ],
+<<<<<<< HEAD
         "category": "AlloySmelter",
+=======
+>>>>>>> master
         "removeHeat": 0.25,
         "isActive": true,
         "RecipeName": "Default",
@@ -70,7 +92,10 @@
       {
         "speed": 9,
         "name": "Default",
+<<<<<<< HEAD
         "heat": 175.0,
+=======
+>>>>>>> master
         "outputs": [
           {
             "Chance": -1,
@@ -79,6 +104,11 @@
             "Amount": 4
           }
         ],
+<<<<<<< HEAD
+=======
+        "heat": 175.0,
+        "category": "AlloySmelter",
+>>>>>>> master
         "inputs": [
           {
             "Chance": -1,
@@ -93,7 +123,10 @@
             "Amount": 1
           }
         ],
+<<<<<<< HEAD
         "category": "AlloySmelter",
+=======
+>>>>>>> master
         "removeHeat": 0.5,
         "isActive": true,
         "RecipeName": "Default",
@@ -102,7 +135,10 @@
       {
         "speed": 9,
         "name": "Default",
+<<<<<<< HEAD
         "heat": 175.0,
+=======
+>>>>>>> master
         "outputs": [
           {
             "Chance": -1,
@@ -111,6 +147,11 @@
             "Amount": 4
           }
         ],
+<<<<<<< HEAD
+=======
+        "heat": 175.0,
+        "category": "AlloySmelter",
+>>>>>>> master
         "inputs": [
           {
             "Chance": -1,
@@ -125,7 +166,10 @@
             "Amount": 1
           }
         ],
+<<<<<<< HEAD
         "category": "AlloySmelter",
+=======
+>>>>>>> master
         "removeHeat": 0.5,
         "isActive": true,
         "RecipeName": "Default",

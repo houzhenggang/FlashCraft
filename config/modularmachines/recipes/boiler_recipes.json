@@ -6,7 +6,10 @@
       {
         "speed": 1,
         "name": "Default",
+<<<<<<< HEAD
         "heat": 100.0,
+=======
+>>>>>>> master
         "outputs": [
           {
             "Chance": -1,
@@ -15,6 +18,11 @@
             "Amount": 80
           }
         ],
+<<<<<<< HEAD
+=======
+        "heat": 100.0,
+        "category": "Boiler",
+>>>>>>> master
         "inputs": [
           {
             "Chance": -1,
@@ -23,7 +31,10 @@
             "Amount": 15
           }
         ],
+<<<<<<< HEAD
         "category": "Boiler",
+=======
+>>>>>>> master
         "removeHeat": 0.0,
         "isActive": true,
         "RecipeName": "Default",
