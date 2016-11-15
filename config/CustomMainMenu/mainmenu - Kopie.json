@@ -33,17 +33,8 @@
             "posY" : -35,
             "width" : 90,
             "height" : 20,
-<<<<<<< HEAD
             "hoverText" : "forever alone",
 			"alignment" : "left_center",
-=======
-<<<<<<< HEAD
-            "hoverText" : "forever alone",
-			"alignment" : "left_center",
-=======
-            "alignment" : "left_center",
->>>>>>> master
->>>>>>> origin/master
 			"action" : 
             {
                 "type" : "openGui",
@@ -58,17 +49,8 @@
             "posY" : -10,
             "width" : 90,
             "height" : 20,
-<<<<<<< HEAD
 			"alignment" : "left_center",
 			"hoverText" : "Lets Play together",
-=======
-<<<<<<< HEAD
-			"alignment" : "left_center",
-			"hoverText" : "Lets Play together",
-=======
-            "alignment" : "left_center",
->>>>>>> master
->>>>>>> origin/master
 			"action" : 
             {
                 "type" : "openGui",
@@ -98,15 +80,7 @@
             "posY" : -40,
             "width" : 20,
             "height" : 20,
-<<<<<<< HEAD
             "texture":"mainmenu:button/Options.png",
-=======
-<<<<<<< HEAD
-            "texture":"mainmenu:button/Options.png",
-=======
-            "texture":"mainmenu:textures/Options.png",
->>>>>>> master
->>>>>>> origin/master
 			"alignment" : "bottom_left",
 			"action" : 
             {
@@ -123,23 +97,12 @@
             "width" : 49,
             "height" : 20,
             "alignment" : "bottom_left",
-<<<<<<< HEAD
 			"hoverText" : "Goodbye",
-=======
-<<<<<<< HEAD
-			"hoverText" : "Goodbye",
-=======
->>>>>>> master
->>>>>>> origin/master
 			"action" : 
             {
                 "type" : "quit"
             }
         },
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> origin/master
 			"refresh":
         {
             "text" : "",
@@ -153,11 +116,6 @@
                 "type" : "refresh"
             }
         },
-<<<<<<< HEAD
-=======
-=======
->>>>>>> master
->>>>>>> origin/master
         
         "language":
         {
@@ -173,10 +131,6 @@
                 "gui" : "languages"
             }
         },
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> origin/master
 		
 		"Github":
         {
@@ -212,24 +166,6 @@
             }	
         }
 		 
-<<<<<<< HEAD
-=======
-=======
-		  "refresh":
-        {
-            "text" : "",
-            "posX" : -154,
-            "posY" : 132,
-            "width" : 20,
-            "height" : 20,
-            "texture" : "custommainmenu:textures/gui/buttons.png",
-            "action" :
-            {
-                "type" : "refresh"
-            }
-        }
->>>>>>> master
->>>>>>> origin/master
 
              
     },
@@ -242,22 +178,12 @@
             "posX" : -80,
             "posY" : -10,
             "color" : -10000000000,
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> origin/master
             "alignment" : "bottom_right",
 			"action" :
 			{
 			"type" : "openLink",
 								"link" : "https://minecraft.curseforge.com/projects/flashpack"
 			}
-<<<<<<< HEAD
-=======
-=======
-            "alignment" : "bottom_right"
->>>>>>> master
->>>>>>> origin/master
         },
 		 "username":
         {

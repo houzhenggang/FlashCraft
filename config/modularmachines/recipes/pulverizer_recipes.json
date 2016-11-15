@@ -20,13 +20,6 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -35,14 +28,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -58,13 +44,6 @@
             "Amount": 2
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -73,14 +52,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -96,13 +68,6 @@
             "Amount": 2
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -111,14 +76,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -140,13 +98,6 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -155,14 +106,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -178,13 +122,6 @@
             "Amount": 2
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -193,14 +130,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -222,13 +152,6 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -237,14 +160,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -260,13 +176,6 @@
             "Amount": 2
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -275,14 +184,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -298,13 +200,6 @@
             "Amount": 2
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -313,14 +208,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -336,13 +224,6 @@
             "Amount": 2
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -351,14 +232,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -374,13 +248,6 @@
             "Amount": 2
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -389,14 +256,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -412,13 +272,6 @@
             "Amount": 2
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -427,14 +280,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -450,13 +296,6 @@
             "Amount": 2
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -465,14 +304,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -488,13 +320,6 @@
             "Amount": 8
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -503,14 +328,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -526,13 +344,6 @@
             "Amount": 2
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -541,14 +352,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -564,13 +368,6 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -579,14 +376,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -602,13 +392,6 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -617,14 +400,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -640,13 +416,6 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -655,14 +424,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -678,13 +440,6 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -693,14 +448,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -716,13 +464,6 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -731,14 +472,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -754,13 +488,6 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -769,14 +496,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -792,13 +512,6 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -807,14 +520,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -830,13 +536,6 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -845,14 +544,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -868,13 +560,6 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -883,14 +568,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -906,13 +584,6 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -921,14 +592,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -944,13 +608,6 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -959,14 +616,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
@@ -982,13 +632,6 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-        "category": "Pulverizer",
->>>>>>> master
->>>>>>> origin/master
         "inputs": [
           {
             "Chance": -1,
@@ -997,14 +640,7 @@
             "Amount": 1
           }
         ],
-<<<<<<< HEAD
         "category": "Pulverizer",
-=======
-<<<<<<< HEAD
-        "category": "Pulverizer",
-=======
->>>>>>> master
->>>>>>> origin/master
         "isActive": true,
         "RecipeName": "Default",
         "RecipeCategory": "Pulverizer"
