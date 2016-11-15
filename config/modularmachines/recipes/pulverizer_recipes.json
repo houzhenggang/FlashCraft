@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "Default": {
     "name": "Default",
@@ -647,4 +648,1019 @@
       }
     ]
   }
+=======
+{
+  "Default": {
+    "name": "Default",
+    "isActive": true,
+    "recipes": [
+      {
+        "speed": 15,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:0",
+            "Amount": 2
+          },
+          {
+            "Chance": 15,
+            "Type": "Item",
+            "Item": "minecraft:coal:0",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "oreCoal",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 15,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:1",
+            "Amount": 2
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "blockObsidian",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 15,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:2",
+            "Amount": 2
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "oreIron",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 15,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:3",
+            "Amount": 2
+          },
+          {
+            "Chance": 20,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:10",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "oreGold",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 15,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:4",
+            "Amount": 2
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "oreDiamond",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 12,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:10",
+            "Amount": 2
+          },
+          {
+            "Chance": 15,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:3",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "oreCopper",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 15,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:11",
+            "Amount": 2
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "oreTin",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 15,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:12",
+            "Amount": 2
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "oreSilver",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 15,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:13",
+            "Amount": 2
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "oreLead",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 15,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:14",
+            "Amount": 2
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "oreNickel",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 15,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:15",
+            "Amount": 2
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "oreAluminum",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 15,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:15",
+            "Amount": 2
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "oreAluminium",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 15,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "minecraft:redstone:0",
+            "Amount": 8
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "oreRedstone",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 7,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:0",
+            "Amount": 2
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "itemCoal",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 7,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:15",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "ingotAluminum",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 7,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:15",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "ingotAluminium",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 7,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:14",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "ingotNickel",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 7,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:2",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "ingotIron",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 7,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:11",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "ingotTin",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 7,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:12",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "ingotSilver",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 7,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:10",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "ingotCopper",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 7,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:3",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "ingotGold",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 7,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:16",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "ingotSteel",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 7,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:20",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "ingotBronze",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 7,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:21",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "ingotInvar",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      },
+      {
+        "speed": 7,
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:dusts:13",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "category": "Pulverizer",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "ingotLead",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+<<<<<<< HEAD
+        "category": "Pulverizer",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Pulverizer"
+      }
+    ]
+  }
+>>>>>>> master
 }

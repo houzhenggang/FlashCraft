@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "Default": {
     "name": "Default",
@@ -330,4 +331,624 @@
       }
     ]
   }
+=======
+{
+  "Default": {
+    "name": "Default",
+    "isActive": true,
+    "recipes": [
+      {
+        "speed": 4,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "mode": 0,
+>>>>>>> master
+>>>>>>> origin/master
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:component.rods:0",
+            "Amount": 2
+          }
+        ],
+<<<<<<< HEAD
+        "mode": 0,
+=======
+<<<<<<< HEAD
+        "mode": 0,
+=======
+        "category": "Lathe",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "ingotIron",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Lathe"
+      },
+      {
+        "speed": 4,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "mode": 0,
+>>>>>>> master
+>>>>>>> origin/master
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:component.rods:1",
+            "Amount": 2
+          }
+        ],
+<<<<<<< HEAD
+        "mode": 0,
+=======
+<<<<<<< HEAD
+        "mode": 0,
+=======
+        "category": "Lathe",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "ingotTin",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Lathe"
+      },
+      {
+        "speed": 4,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "mode": 0,
+>>>>>>> master
+>>>>>>> origin/master
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:component.rods:2",
+            "Amount": 2
+          }
+        ],
+<<<<<<< HEAD
+        "mode": 0,
+=======
+<<<<<<< HEAD
+        "mode": 0,
+=======
+        "category": "Lathe",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "ingotCopper",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Lathe"
+      },
+      {
+        "speed": 4,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "mode": 0,
+>>>>>>> master
+>>>>>>> origin/master
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:component.rods:3",
+            "Amount": 2
+          }
+        ],
+<<<<<<< HEAD
+        "mode": 0,
+=======
+<<<<<<< HEAD
+        "mode": 0,
+=======
+        "category": "Lathe",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "ingotBronze",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Lathe"
+      },
+      {
+        "speed": 4,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "mode": 0,
+>>>>>>> master
+>>>>>>> origin/master
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:component.rods:4",
+            "Amount": 2
+          }
+        ],
+<<<<<<< HEAD
+        "mode": 0,
+=======
+<<<<<<< HEAD
+        "mode": 0,
+=======
+        "category": "Lathe",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "ingotSteel",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Lathe"
+      },
+      {
+        "speed": 3,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "mode": 1,
+>>>>>>> master
+>>>>>>> origin/master
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:component.wires:0",
+            "Amount": 9
+          }
+        ],
+<<<<<<< HEAD
+        "mode": 1,
+=======
+<<<<<<< HEAD
+        "mode": 1,
+=======
+        "category": "Lathe",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "plateIron",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Lathe"
+      },
+      {
+        "speed": 3,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "mode": 1,
+>>>>>>> master
+>>>>>>> origin/master
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:component.wires:1",
+            "Amount": 9
+          }
+        ],
+<<<<<<< HEAD
+        "mode": 1,
+=======
+<<<<<<< HEAD
+        "mode": 1,
+=======
+        "category": "Lathe",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "plateTin",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Lathe"
+      },
+      {
+        "speed": 3,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "mode": 1,
+>>>>>>> master
+>>>>>>> origin/master
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:component.wires:2",
+            "Amount": 9
+          }
+        ],
+<<<<<<< HEAD
+        "mode": 1,
+=======
+<<<<<<< HEAD
+        "mode": 1,
+=======
+        "category": "Lathe",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "plateCopper",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Lathe"
+      },
+      {
+        "speed": 3,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "mode": 1,
+>>>>>>> master
+>>>>>>> origin/master
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:component.wires:3",
+            "Amount": 9
+          }
+        ],
+<<<<<<< HEAD
+        "mode": 1,
+=======
+<<<<<<< HEAD
+        "mode": 1,
+=======
+        "category": "Lathe",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "plateBronze",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Lathe"
+      },
+      {
+        "speed": 3,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "mode": 1,
+>>>>>>> master
+>>>>>>> origin/master
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:component.wires:4",
+            "Amount": 9
+          }
+        ],
+<<<<<<< HEAD
+        "mode": 1,
+=======
+<<<<<<< HEAD
+        "mode": 1,
+=======
+        "category": "Lathe",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "plateSteel",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Lathe"
+      },
+      {
+        "speed": 3,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "mode": 2,
+>>>>>>> master
+>>>>>>> origin/master
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:component.screws:0",
+            "Amount": 2
+          }
+        ],
+<<<<<<< HEAD
+        "mode": 2,
+=======
+<<<<<<< HEAD
+        "mode": 2,
+=======
+        "category": "Lathe",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "rodIron",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Lathe"
+      },
+      {
+        "speed": 3,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "mode": 2,
+>>>>>>> master
+>>>>>>> origin/master
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:component.screws:1",
+            "Amount": 2
+          }
+        ],
+<<<<<<< HEAD
+        "mode": 2,
+=======
+<<<<<<< HEAD
+        "mode": 2,
+=======
+        "category": "Lathe",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "rodBronze",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Lathe"
+      },
+      {
+        "speed": 3,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "mode": 2,
+>>>>>>> master
+>>>>>>> origin/master
+        "name": "Default",
+        "outputs": [
+          {
+            "Chance": -1,
+            "Type": "Item",
+            "Item": "modularmachines:component.screws:2",
+            "Amount": 2
+          }
+        ],
+<<<<<<< HEAD
+        "mode": 2,
+=======
+<<<<<<< HEAD
+        "mode": 2,
+=======
+        "category": "Lathe",
+>>>>>>> master
+>>>>>>> origin/master
+        "inputs": [
+          {
+            "Chance": -1,
+            "Type": "Ore",
+            "Item": "rodSteel",
+            "Amount": 1
+          }
+        ],
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+<<<<<<< HEAD
+        "category": "Lathe",
+=======
+>>>>>>> master
+>>>>>>> origin/master
+        "isActive": true,
+        "RecipeName": "Default",
+        "RecipeCategory": "Lathe"
+      }
+    ]
+  }
+>>>>>>> master
 }

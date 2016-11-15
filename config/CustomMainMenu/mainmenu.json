@@ -118,21 +118,74 @@
                 "gui" : "languages"
             }
         },
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+		 "refresh":
+        {
+            "text" : "",
+            "posX" : -154,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" :
+            {
+                "type" : "refresh"
+            }
+        },
+>>>>>>> master
+>>>>>>> origin/master
+>>>>>>> master
 		
 		"Github":
         {
             "text" : "",
 			"texture" : "mainmenu:button/github.png",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> origin/master
+>>>>>>> master
 			"tooltip" : "Issues?",
 			"alignment" : "bottom_center",
             "posX" : -180,
             "posY" : -252,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+			"tooltip" : "Github",
+			"alignment" : "bottom_center",
+            "posX" : -35,
+            "posY" : -30,
+>>>>>>> master
+>>>>>>> origin/master
+>>>>>>> master
             "width" : 20,
             "height" : 20,
 			"action" :
 			{
                 "type" : "openLink",
+<<<<<<< HEAD
 				"link" : "https://github.com/Flashwar/FlashCraft/issues"
+=======
+<<<<<<< HEAD
+				"link" : "https://github.com/Flashwar/FlashCraft/issues"
+=======
+<<<<<<< HEAD
+				"link" : "https://github.com/Flashwar/FlashCraft/issues"
+=======
+				"link" : "https://github.com/BBoldt/Unabridged/issues"
+>>>>>>> master
+>>>>>>> origin/master
+>>>>>>> master
             }
         },
 		
@@ -142,8 +195,23 @@
 			"texture" : "mainmenu:button/twitter.png",
 			"tooltip" : "Twitter",
 			"alignment" : "bottom_center",
+<<<<<<< HEAD
             "posX" : -203,
             "posY" : -252,
+=======
+<<<<<<< HEAD
+            "posX" : -203,
+            "posY" : -252,
+=======
+<<<<<<< HEAD
+            "posX" : -203,
+            "posY" : -252,
+=======
+            "posX" : 15,
+            "posY" : -30,
+>>>>>>> master
+>>>>>>> origin/master
+>>>>>>> master
             "width" : 20,
             "height" : 20,
 			"action" :
@@ -161,7 +229,19 @@
     {
         "Modpack Version":
         {
+<<<<<<< HEAD
             "text" : "FlashPack 0.1.4",
+=======
+<<<<<<< HEAD
+            "text" : "FlashPack 0.1.4",
+=======
+<<<<<<< HEAD
+            "text" : "FlashPack 0.1.2",
+=======
+            "text" : "FlashPack 0.1",
+>>>>>>> master
+>>>>>>> origin/master
+>>>>>>> master
             "posX" : -80,
             "posY" : -10,
             "color" : -10000000000,
